@@ -13,13 +13,9 @@
 
 - 🌱 I’m currently learning **Cloud Computing**
 
-- 📝 I regularly write articles on [https://www.quora.com/profile/Ish-514](https://www.quora.com/profile/Ish-514)
-
 - 💬 Ask me about **IOT, Cyber Security, Python**
 
 - 📫 How to reach me **rishitha980@gmail.com**
-
-- ⚡ Fun fact **I'm into Astronomy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
