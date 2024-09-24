@@ -17,10 +17,6 @@
 
 - 📫 How to reach me **rishitha980@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/rishith67079414" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rishith67079414" height="30" width="40" /></a>
-<a href="https://instagram.com/rish1tha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rish1tha" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/rishitha980" target="blank"><img align="center" 
 </p>
 
